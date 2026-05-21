@@ -1,7 +1,7 @@
 {
   "versionCode": 2,
   "versionName": "v2",
-  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v199/MaxStreamTv.apk",
+  "apkUrl": "https://github.com/adammiki/tvtest/releases/download/v2/MaxStreamTv_v2.apk",
   "message": "Dostępna jest nowa wersja MaxStreamTV.",
   "changelog": [
     "Poprawiono nazwy kanałów w grupach",
